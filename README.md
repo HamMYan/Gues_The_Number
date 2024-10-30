@@ -1,0 +1,1 @@
+The program remembers a number and you have to guess it. If the number you said is less than the number stored by the program, it will tell you that the number you said is small, and if the number you said is greater than the number the program remembers, the program tells you that the number you said is big. is from his memorized number
